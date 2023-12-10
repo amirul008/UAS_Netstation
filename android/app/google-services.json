@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62159362051",
+    "project_id": "uas-net-l",
+    "storage_bucket": "uas-net-l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62159362051:android:d6ac7227843c562a055636",
+        "android_client_info": {
+          "package_name": "com.example.uas_net"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD95OM6v9bbmtA9amlzw83s1lrUed3kBOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
